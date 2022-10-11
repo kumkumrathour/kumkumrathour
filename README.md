@@ -3,7 +3,7 @@
 
 
 <p>
-i am kumkum rathour . study in uit rgpv completing my b.tach from ec . i am a frontend developer. i have knowledge of html, css, javascript . my techinical language is java.
+i am kumkum rathour . study in uit rgpv completing my b.tach from ec . i am a frontend developer. i have knowledge of html, css, javascript . my techinical language is java. specification in react 
 
 </p>
 
